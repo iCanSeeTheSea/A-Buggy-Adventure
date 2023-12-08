@@ -15,5 +15,8 @@
 			"Name": "ActorPalette",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
